@@ -1,0 +1,2 @@
+# MYSQL-Class
+class
